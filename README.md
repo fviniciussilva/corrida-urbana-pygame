@@ -1,6 +1,6 @@
 # Corrida Urbana 🏍️💨
 
-![Gameplay do Corrida Urbana](URL_DO_SEU_GIF_AQUI)
+![Gameplay do Corrida Urbana](https://github.com/fviniciussilva/corrida-urbana-pygame/blob/main/corrida-urbana.gif?raw=true)
 
 ## 📜 Descrição
 
@@ -30,3 +30,4 @@ Corrida Urbana é um jogo de corrida arcade 2D do gênero *endless runner*, dese
 
 ---
 Desenvolvido por Fernando Vinícius Da Silva, 2025.
+
